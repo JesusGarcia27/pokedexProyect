@@ -22,7 +22,7 @@ const Home = () => {
             
             <article className="sm:max-w-[900px] ">
                 <div>
-                    <img src="/public/images/pokedex.png" alt="" />
+                    <img src="/images/pokedex.png" alt="" />
                     
                 </div>
                 <div className='bg-black/40 rounded-lg '>
