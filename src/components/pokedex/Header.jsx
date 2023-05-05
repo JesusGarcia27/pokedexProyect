@@ -14,7 +14,7 @@ const Header = () => {
     <section className="flex-wrap ">
         <div className="relative ">
             <img className="absolute top-0 w-[180px] left-1/3 sm:w-[400px] sm:h-auto lg:w-[620px] lg:ml-20 " src="./public/images/pokedex.png" alt="" />
-            <img className="absolute w-[100px] animate-bounce sm:left-20 sm:top-6 sm:w-[120px] lg:w-[160px] lg:ml-16 lg:mt-5 " src="/public/images/poke.png" alt="" />
+            <img className="absolute w-[100px] animate-bounce sm:left-20 sm:top-6 sm:w-[120px] lg:w-[160px] lg:ml-16 lg:mt-5 " src="./public/images/poke.png" alt="" />
            
             <i onClick={logout} className='bx bxs-log-out absolute left-80 text-3xl py-5 mr-6 text-gray-300 cursor-pointer transition transform hover:-translate-y-2 motion-reduce:transition-none motion-reduce:hover:transform-none duration-300 sm:text-5xl sm:left-4 sm:mt-4 lg:mt-14'></i>
           
